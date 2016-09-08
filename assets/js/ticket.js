@@ -22,6 +22,7 @@ $(function() {
     });
 });
 
+
 $(function(){
     $("body").removeClass('ui-overlay-a');
 });
