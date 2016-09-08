@@ -15,7 +15,9 @@ $(function() {
 
         //ticket 2
         $('#002').on("swipe", function() {
-            $(this).hide(200);
+            $(this).hide(200,function(){
+                alert("this is the end");
+            });
         });
     });
 });
