@@ -315,3 +315,11 @@ body {
         display: table-cell !important;
     }
 }
+
+
+
+/*jQuery override */
+.ui-overlay-a {
+    background-color:#222;
+    text-shadow: none;
+}

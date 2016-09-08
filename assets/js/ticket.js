@@ -20,6 +20,8 @@ $(function() {
     });
 });
 
-
+$(function(){
+    $("body").removeClass('ui-overlay-a');
+});
 
 //jq playground
