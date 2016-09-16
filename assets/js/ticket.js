@@ -14,10 +14,9 @@ $(function() {
         });
 
         //ticket 2
-        $('#002').on("swipe", function() {
-            $(this).hide(200,function(){
-                $('#thanks').show(200);
-            });
+                $('#002').on("swipe", function() {
+                     $(this).hide(200);
+       
         });
     });
 });

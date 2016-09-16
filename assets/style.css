@@ -21,13 +21,14 @@ body {
 
 /*swipe button*/
 .swipe {
-    margin-top: 3%;
+    margin-top: 1em;
     background-color:#fce890;
     color:#000;
     position: relative;
     border-radius: 10px;
     text-align: left;
     padding: 10px;
+    
 }
 
 @media only screen and (max-width: 768px) {
