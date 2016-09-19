@@ -1,9 +1,11 @@
 //variable stuff
 
-if(document.getElementById("#001").style.display != 'block')
-{
-    document.getElementById(id).style.display = 'none';
-};
+
+//if(document.getElementById("#001").style.display != 'block')
+//{
+  //  document.getElementById(id).style.display = 'none';
+//};
+
 //ticket swipe 
 
 $(function() {
