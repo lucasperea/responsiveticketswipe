@@ -1,0 +1,7 @@
+Repsonsive ETicket To Do 9/19/16
+=============================================
+[ ] dynamically change element id incremntally
+[ ] auto display 'next ticket' based on element id
+[x] remove jquery ui-a background color
+[x] remove 'next ticket' option from desktop view
+

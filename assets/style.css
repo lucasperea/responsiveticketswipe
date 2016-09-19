@@ -20,15 +20,15 @@ body {
 
 
 /*swipe button*/
+
 .swipe {
-    margin-top: 1em;
-    background-color:#fce890;
-    color:#000;
+    margin-top: 10px;
+    background-color: #fce890;
+    color: #000;
     position: relative;
     border-radius: 10px;
     text-align: left;
     padding: 10px;
-    
 }
 
 @media only screen and (max-width: 768px) {
@@ -56,6 +56,13 @@ body {
     }
     .section-mobile {
         background-color: #252525;
+    }
+    .ui-overlay-a,
+    .ui-page-theme-a,
+    .ui-page-theme-a .ui-panel-wrapper {
+        background-color: #252525!important;
+        color: #333!important;
+        text-shadow: none!important;
     }
 }
 
@@ -330,9 +337,4 @@ body {
 }
 
 
-
 /*jQuery override */
-.ui-overlay-a {
-    background-color:#222;
-    text-shadow: none;
-}
